@@ -3,6 +3,8 @@
 ![Regression](https://img.shields.io/badge/Type-Regression-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+
 # House Price Prediction
 
 ## Overview
