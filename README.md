@@ -12,6 +12,8 @@ This project focuses on predicting house prices using regression models and regu
 
 The objective was to compare traditional Linear Regression with Ridge and Lasso models to evaluate the impact of regularization on performance and feature selection.
 
+![Distribution](images/distribution.png)
+
 ## Dataset
 Kaggle - House Prices: Advanced Regression Techniques  
 1460 samples with 81 original features.
